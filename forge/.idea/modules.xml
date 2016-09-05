@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge.iml" filepath="$PROJECT_DIR$/.idea/modules/forge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge_api.iml" filepath="$PROJECT_DIR$/.idea/modules/forge_api.iml" group="forge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge_main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge_main.iml" group="forge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge_test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge_test.iml" group="forge" />
+    </modules>
+  </component>
+</project>
