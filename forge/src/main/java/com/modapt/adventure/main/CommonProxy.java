@@ -4,4 +4,7 @@ package com.modapt.adventure.main;
  * Created by YangYang on 4/9/2016.
  */
 public class CommonProxy {
+    public void registerRenderThings() {}
+    public void registerSounds() {}
 }
+

@@ -1,21 +1,21 @@
-[14:22:44] [main/INFO]: Setting user: JohnCena
-[14:22:47] [Client thread/INFO]: LWJGL Version: 2.9.1
-[14:23:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:apertureMod
-[14:23:15] [Sound Library Loader/INFO]: Sound engine started
-[14:23:17] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[14:23:17] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[14:23:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:apertureMod
-[14:23:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[14:23:19] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[14:23:20] [Sound Library Loader/INFO]: Sound engine started
-[14:23:28] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[14:23:28] [Server thread/INFO]: Generating keypair
-[14:23:29] [Server thread/INFO]: Preparing start region for level 0
-[14:23:30] [Server thread/INFO]: Preparing spawn area: 23%
-[14:23:31] [Server thread/INFO]: Changing view distance to 8, from 10
-[14:23:32] [Server thread/INFO]: JohnCena[local:E:819ff907] logged in with entity id 307 at (1047.092929432475, 6.140849262099798, -832.6578356983307)
-[14:23:32] [Server thread/INFO]: JohnCena joined the game
-[14:23:35] [Client thread/WARN]: Failed to load texture: apt:textures/blocks/LightTable
+[21:23:05] [main/INFO]: Setting user: JohnCena
+[21:23:08] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:23:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:apertureMod
+[21:23:34] [Sound Library Loader/INFO]: Sound engine started
+[21:23:36] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[21:23:36] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[21:23:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:apertureMod
+[21:23:38] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:23:38] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:23:39] [Sound Library Loader/INFO]: Sound engine started
+[21:23:50] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:23:50] [Server thread/INFO]: Generating keypair
+[21:23:51] [Server thread/INFO]: Preparing start region for level 0
+[21:23:52] [Server thread/INFO]: Preparing spawn area: 45%
+[21:23:52] [Server thread/INFO]: Changing view distance to 8, from 10
+[21:23:55] [Server thread/INFO]: JohnCena[local:E:f6e9961a] logged in with entity id 393 at (1042.3658038903038, 13.979569059007646, -862.6109869539893)
+[21:23:55] [Server thread/INFO]: JohnCena joined the game
+[21:23:56] [Client thread/WARN]: Failed to load texture: apt:textures/blocks/LightTable
 java.io.FileNotFoundException: apt:textures/blocks/LightTable
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -48,14 +48,18 @@ java.io.FileNotFoundException: apt:textures/blocks/LightTable
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_102]
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_102]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147) [idea_rt.jar:?]
-[14:25:53] [Server thread/INFO]: Saving and pausing game...
-[14:25:53] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/Overworld
-[14:25:53] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/Nether
-[14:25:53] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/The End
-[14:25:54] [Server thread/INFO]: Stopping server
-[14:25:54] [Server thread/INFO]: Saving players
-[14:25:54] [Server thread/INFO]: Saving worlds
-[14:25:54] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/Overworld
-[14:25:54] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/Nether
-[14:25:54] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/The End
-[14:25:58] [Client thread/INFO]: Stopping!
+[21:23:56] [Server thread/INFO]: Saving and pausing game...
+[21:23:56] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/Overworld
+[21:23:57] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/Nether
+[21:23:57] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/The End
+[21:26:03] [Server thread/INFO]: Saving and pausing game...
+[21:26:03] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/Overworld
+[21:26:03] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/Nether
+[21:26:03] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/The End
+[21:26:03] [Server thread/INFO]: Stopping server
+[21:26:03] [Server thread/INFO]: Saving players
+[21:26:03] [Server thread/INFO]: Saving worlds
+[21:26:03] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/Overworld
+[21:26:03] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/Nether
+[21:26:03] [Server thread/INFO]: Saving chunks for level 'itemTestWorld'/The End
+[21:26:05] [Client thread/INFO]: Stopping!
